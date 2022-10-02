@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\桌面\演算法\作業\作業二\project1\Project1\Project1\Source.cpp(21,6): warning C4101: 'num': 未參考的區域變數
+E:\桌面\演算法\作業\作業二\project1\Project1\Project1\Source.cpp(303,63): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\桌面\演算法\作業\作業二\project1\Project1\Project1\Source.cpp(488,6): warning C4101: 'check': 未參考的區域變數
+  Project1.vcxproj -> E:\桌面\演算法\作業\作業二\project1\Project1\Debug\Project1.exe
