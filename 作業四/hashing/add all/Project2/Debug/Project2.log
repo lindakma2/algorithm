@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\演算法\作業\作業四\hashing\add all\Project2\Source.cpp(130,17): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project2.vcxproj -> E:\演算法\作業\作業四\hashing\add all\Debug\Project2.exe
