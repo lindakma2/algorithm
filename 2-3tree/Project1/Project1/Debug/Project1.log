@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\演算法\作業\作業四\2-3tree\Project1\Project1\Source.cpp(22,1): warning C4005: 'INT_MAX': 巨集重複定義
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\limits.h(36): message : 請參閱 'INT_MAX' 之前的定義
+E:\演算法\作業\作業四\2-3tree\Project1\Project1\Source.cpp(139,15): warning C4101: 'temp': 未參考的區域變數
+E:\演算法\作業\作業四\2-3tree\Project1\Project1\Source.cpp(407): warning C4715: 'delete23': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> E:\演算法\作業\作業四\2-3tree\Project1\Debug\Project1.exe
